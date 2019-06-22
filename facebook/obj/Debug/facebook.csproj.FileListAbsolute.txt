@@ -1,0 +1,15 @@
+C:\Users\Bui Khoi\source\repos\facebook\facebook\bin\Debug\facebook.exe.config
+C:\Users\Bui Khoi\source\repos\facebook\facebook\bin\Debug\facebook.exe
+C:\Users\Bui Khoi\source\repos\facebook\facebook\bin\Debug\facebook.pdb
+C:\Users\Bui Khoi\source\repos\facebook\facebook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bui Khoi\source\repos\facebook\facebook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bui Khoi\source\repos\facebook\facebook\obj\Debug\facebook.csprojAssemblyReference.cache
+C:\Users\Bui Khoi\source\repos\facebook\facebook\obj\Debug\facebook.info.resources
+C:\Users\Bui Khoi\source\repos\facebook\facebook\obj\Debug\facebook.login.resources
+C:\Users\Bui Khoi\source\repos\facebook\facebook\obj\Debug\facebook.Properties.Resources.resources
+C:\Users\Bui Khoi\source\repos\facebook\facebook\obj\Debug\facebook.csproj.GenerateResource.cache
+C:\Users\Bui Khoi\source\repos\facebook\facebook\obj\Debug\facebook.csproj.CoreCompileInputs.cache
+C:\Users\Bui Khoi\source\repos\facebook\facebook\obj\Debug\facebook.csproj.CopyComplete
+C:\Users\Bui Khoi\source\repos\facebook\facebook\obj\Debug\facebook.exe
+C:\Users\Bui Khoi\source\repos\facebook\facebook\obj\Debug\facebook.pdb
+C:\Users\Bui Khoi\source\repos\facebook\facebook\obj\Debug\facebook.upstatus.resources
